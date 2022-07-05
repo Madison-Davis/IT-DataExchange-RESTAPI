@@ -1,0 +1,17 @@
+Statistic,Units,Year,Estimate,RSE
+Planted acres,"1,000 Acres",2010,"81,740.070",0.0
+Acres treated with any pesticide,percent of planted acres,2010,97.332,0.5
+Number of treatments with any pesticide,Number,2010,3.374,2.2
+Treatment rate with any pesticide,Pounds a.i. per treated acre,2010,2.331,2.4
+Acres treated with insecticide,percent of planted acres,2010,9.284,12.5
+Number of treatments with insecticide,Number,2010,1.245,4.9
+Treatment rate with insecticide,Pounds a.i. per treated acre,2010,0.186,16.1
+Acres treated with herbicide,percent of planted acres,2010,95.106,0.8
+Number of treatments with herbicide,Number,2010,2.847,2.2
+Treatment rate with herbicide,Pounds a.i. per treated acre,2010,2.249,2.2
+Acres treated with fungicide,percent of planted acres,2010,7.493,13.3
+Number of treatments with fungicide,Number,2010,1.369,4.6
+Treatment rate with fungicide,Pounds a.i. per treated acre,2010,0.120,5.9
+Number of treatments with other pesticide,Number,2010,2.298,4.1
+Acres treated with other pesticide,percent of planted acres,2010,15.597,9.4
+Treatment rate with other pesticide,Pounds a.i. per treated acre,2010,0.665,13.1
