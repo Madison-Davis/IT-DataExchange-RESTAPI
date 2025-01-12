@@ -1,0 +1,152 @@
+{
+  "meta" : {
+    "view" : {
+      "columns" : [ {
+        "id" : 431066199,
+        "name" : "Business Receiving Loan",
+        "dataTypeName" : "text",
+        "description" : "Business Receiving Loan",
+        "fieldName" : "business_receiving_loan",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 88461943,
+        "cachedContents" : {
+          "largest" : "No activity",
+          "non_null" : "3",
+          "null" : "0",
+          "top" : [ {
+            "item" : "No activity",
+            "count" : "1"
+          }, {
+            "item" : "Kaczmarek Digital Media Group, Inc.",
+            "count" : "1"
+          }, {
+            "item" : "DulsEnergy, Inc.",
+            "count" : "1"
+          } ],
+          "smallest" : "DulsEnergy, Inc.",
+          "count" : "3",
+          "cardinality" : "3"
+        },
+        "format" : { }
+      }, {
+        "id" : 431066200,
+        "name" : "Year Loan Made",
+        "dataTypeName" : "text",
+        "description" : "Year Loan Made",
+        "fieldName" : "year_loan_made",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 88461944,
+        "cachedContents" : {
+          "largest" : "FY2021",
+          "non_null" : "3",
+          "null" : "0",
+          "top" : [ {
+            "item" : "FY2019",
+            "count" : "1"
+          }, {
+            "item" : "FY2021",
+            "count" : "1"
+          }, {
+            "item" : "FY2020",
+            "count" : "1"
+          } ],
+          "smallest" : "FY2019",
+          "count" : "3",
+          "cardinality" : "3"
+        },
+        "format" : { }
+      }, {
+        "id" : 431066201,
+        "name" : "Use of Funds",
+        "dataTypeName" : "text",
+        "description" : "Project description",
+        "fieldName" : "use_of_funds",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 88461945,
+        "cachedContents" : {
+          "largest" : "Working Capital to grow business Sales",
+          "non_null" : "2",
+          "null" : "1",
+          "top" : [ {
+            "item" : "Working Capital to grow business Sales",
+            "count" : "1"
+          }, {
+            "item" : "Seaweed Farming & Food Processing",
+            "count" : "1"
+          } ],
+          "smallest" : "Seaweed Farming & Food Processing",
+          "count" : "3",
+          "cardinality" : "2"
+        },
+        "format" : { }
+      }, {
+        "id" : 431066202,
+        "name" : "Award Type",
+        "dataTypeName" : "text",
+        "description" : "Award Type (Grant, Loan, etc.)",
+        "fieldName" : "award_type",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 88461946,
+        "cachedContents" : {
+          "largest" : "Loan",
+          "non_null" : "2",
+          "null" : "1",
+          "top" : [ {
+            "item" : "Loan",
+            "count" : "2"
+          } ],
+          "smallest" : "Loan",
+          "count" : "3",
+          "cardinality" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 431066203,
+        "name" : "Amount",
+        "dataTypeName" : "number",
+        "description" : "US$",
+        "fieldName" : "amount",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 88461947,
+        "cachedContents" : {
+          "largest" : "250000",
+          "non_null" : "2",
+          "null" : "1",
+          "top" : [ {
+            "item" : "100000",
+            "count" : "1"
+          }, {
+            "item" : "250000",
+            "count" : "1"
+          } ],
+          "smallest" : "100000",
+          "count" : "3",
+          "cardinality" : "2"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "currencyStyle" : "USD"
+        }
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Dataset Information" : {
+            "Geographic Coverage" : "Statewide ",
+            "Data Publishing Frequency" : "Annually",
+            "Data Change Frequency" : "Annually",
+            "Agency Name" : "Business Oregon ",
+            "Agency URL" : "https://www.oregon4biz.com/"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "tags" : [ "oregon royalty fund", "fiscal year 2019", "fiscal year 2020", "fiscal year 2021" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  }
+}
